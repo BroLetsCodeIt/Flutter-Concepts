@@ -25,3 +25,8 @@ flutter doctor
 
 ![image](https://github.com/BroLetsCodeIt/Flutter-Concepts/assets/113767803/518eec68-fe75-402d-8e39-e9944946c169)
 
+
+## <code> How to create project in flutter </code>
+```sh
+flutter create <app_name>
+```
