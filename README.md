@@ -15,3 +15,6 @@
 ```sh
 flutter upgrade
 ```
+
+### <code>Flutter doctor</code>
+<p>Flutter comes up with an awesome command line utility to check if your machine is set up for local development. Flutter has Flutter Doctor command which guides developers through setting up the local development environment for both iOS and Android. Flutter Doctor inspects which tools are installed on the local machine and which tools need to be configured. Once the Flutter Doctor command is happy, we can carry on creating a new Flutter app.</p>
