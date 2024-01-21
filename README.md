@@ -38,3 +38,8 @@ Method - 2
 - Choose first one
 
 ![image](https://github.com/BroLetsCodeIt/Flutter-Concepts/assets/113767803/4d8b4330-4458-41c6-ac26-3376c922b6d5)
+
+## To run the flutter application
+```sh
+flutter run
+```
